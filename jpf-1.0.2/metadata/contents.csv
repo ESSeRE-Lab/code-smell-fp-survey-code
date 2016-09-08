@@ -1,0 +1,193 @@
+#2012-04-20T06:08:53NZST
+#System Version : jpf-1.0.2
+#Source Packages: org.java.plugin
+#Ignore Packages: 
+#Distributed    : source,source-boot,source-tools
+#Source Roots   : source,source-boot,source-tools
+#1. Fully-qualified type name
+#2. location in bin
+#3. location in src
+#4. 0=in src pkg (user-defined), 1=not in src pkg. See 'Source Packages' above
+#5. 0=both bin and src, 1=bin only, 2=src only
+#6. 0=distributed, 1 = not distributed. Source code in 'Distributed' above
+#7. 0=top-level public, 4=top-level non-public, 1=top-level different name, 2=nested, 3=probably haven't seen source, -1 no source, or not parsed
+#8. LOC - physical lines in file (for public type only)
+#9. NCLOC - non-commented lines of code in file (for public type only)
+#
+org.java.plugin.util.ExtendedProperties	jpf.jar	source/org/java/plugin/util/ExtendedProperties.java	0	0	0	0	130	58
+org.java.plugin.util.IoUtil	jpf.jar	source/org/java/plugin/util/IoUtil.java	0	0	0	0	549	378
+org.java.plugin.util.ResourceManager	jpf.jar	source/org/java/plugin/util/ResourceManager.java	0	0	0	0	158	86
+org.java.plugin.standard.CombinedFileFilter	jpf.jar	source/org/java/plugin/standard/ShadingPathResolver.java	0	0	0	1	0	0
+org.java.plugin.standard.PluginLifecycleHandler	jpf.jar	source/org/java/plugin/standard/PluginLifecycleHandler.java	0	0	0	0	114	27
+org.java.plugin.standard.RegexpFileFilter	jpf.jar	source/org/java/plugin/standard/ShadingPathResolver.java	0	0	0	1	0	0
+org.java.plugin.standard.ShadingPathResolver	jpf.jar	source/org/java/plugin/standard/ShadingPathResolver.java	0	0	0	0	956	832
+org.java.plugin.standard.ShadingUtil	jpf.jar	source/org/java/plugin/standard/ShadingPathResolver.java	0	0	0	1	0	0
+org.java.plugin.standard.ShadowDataController	jpf.jar	source/org/java/plugin/standard/ShadingPathResolver.java	0	0	0	1	0	0
+org.java.plugin.standard.ShadowDataController$ShadowFileFilter	jpf.jar	source/org/java/plugin/standard/ShadingPathResolver.java	0	0	0	2	0	0
+org.java.plugin.standard.StandardObjectFactory	jpf.jar	source/org/java/plugin/standard/StandardObjectFactory.java	0	0	0	0	167	115
+org.java.plugin.standard.StandardPathResolver	jpf.jar	source/org/java/plugin/standard/StandardPathResolver.java	0	0	0	0	204	121
+org.java.plugin.standard.StandardPluginClassLoader	jpf.jar	source/org/java/plugin/standard/StandardPluginClassLoader.java	0	0	0	0	1043	941
+org.java.plugin.standard.StandardPluginClassLoader$1	jpf.jar	source/org/java/plugin/standard/StandardPluginClassLoader.java	0	0	0	2	0	0
+org.java.plugin.standard.StandardPluginClassLoader$PluginResourceLoader	jpf.jar	source/org/java/plugin/standard/StandardPluginClassLoader.java	0	0	0	2	0	0
+org.java.plugin.standard.StandardPluginClassLoader$ResourceFilter	jpf.jar	source/org/java/plugin/standard/StandardPluginClassLoader.java	0	0	0	2	0	0
+org.java.plugin.standard.StandardPluginLifecycleHandler	jpf.jar	source/org/java/plugin/standard/StandardPluginLifecycleHandler.java	0	0	0	0	183	89
+org.java.plugin.standard.StandardPluginLifecycleHandler$1	jpf.jar	source/org/java/plugin/standard/StandardPluginLifecycleHandler.java	0	0	0	2	0	0
+org.java.plugin.standard.StandardPluginLocation	jpf.jar	source/org/java/plugin/standard/StandardPluginLocation.java	0	0	0	0	189	112
+org.java.plugin.standard.StandardPluginManager	jpf.jar	source/org/java/plugin/standard/StandardPluginManager.java	0	0	0	0	757	576
+org.java.plugin.standard.StandardPluginManager$1	jpf.jar	source/org/java/plugin/standard/StandardPluginManager.java	0	0	0	2	0	0
+org.java.plugin.standard.StandardPluginManager$EmptyPlugin	jpf.jar	source/org/java/plugin/standard/StandardPluginManager.java	0	0	0	2	0	0
+org.java.plugin.tools.ant.BaseJpfTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/BaseJpfTask.java	0	0	0	0	301	239
+org.java.plugin.tools.ant.CheckTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/CheckTask.java	0	0	0	0	74	40
+org.java.plugin.tools.ant.DocTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/DocTask.java	0	0	0	0	149	93
+org.java.plugin.tools.ant.PackTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/PackTask.java	0	0	0	0	56	23
+org.java.plugin.tools.ant.PathTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/PathTask.java	0	0	0	0	194	141
+org.java.plugin.tools.ant.PluginInfoTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/PluginInfoTask.java	0	0	0	0	167	91
+org.java.plugin.tools.ant.SingleFilePluginTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/SingleFilePluginTask.java	0	0	0	0	87	53
+org.java.plugin.tools.ant.SortTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/SortTask.java	0	0	0	0	221	155
+org.java.plugin.tools.ant.UnpackTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/UnpackTask.java	0	0	0	0	77	40
+org.java.plugin.tools.ant.VersionUpdateTask	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/VersionUpdateTask.java	0	0	0	0	409	343
+org.java.plugin.tools.ant.VersionUpdateTask$PluginInfo	jpf-tools.jar	source-tools/org/java/plugin/tools/ant/VersionUpdateTask.java	0	0	0	2	0	0
+org.java.plugin.tools.PluginArchiver	jpf-tools.jar	source-tools/org/java/plugin/tools/PluginArchiver.java	0	0	0	0	615	416
+org.java.plugin.tools.PluginArchiver$1	jpf-tools.jar	source-tools/org/java/plugin/tools/PluginArchiver.java	0	0	0	2	0	0
+org.java.plugin.tools.PluginArchiver$2	jpf-tools.jar	source-tools/org/java/plugin/tools/PluginArchiver.java	0	0	0	2	0	0
+org.java.plugin.tools.PluginArchiver$3	jpf-tools.jar	source-tools/org/java/plugin/tools/PluginArchiver.java	0	0	0	2	0	0
+org.java.plugin.tools.PluginArchiver$ArchiveDescriptorEntry	jpf-tools.jar	source-tools/org/java/plugin/tools/PluginArchiver.java	0	0	0	2	0	0
+org.java.plugin.tools.PluginArchiver$Filter	jpf-tools.jar	source-tools/org/java/plugin/tools/PluginArchiver.java	0	0	0	2	0	0
+org.java.plugin.tools.Util	jpf-tools.jar	source-tools/org/java/plugin/tools/Util.java	0	0	0	4	85	57
+org.java.plugin.registry.xml.BaseHandler	jpf.jar	source/org/java/plugin/registry/xml/BaseHandler.java	0	0	0	4	110	62
+org.java.plugin.registry.xml.DocumentationImpl	jpf.jar	source/org/java/plugin/registry/xml/DocumentationImpl.java	0	0	0	4	134	75
+org.java.plugin.registry.xml.DocumentationImpl$ReferenceImpl	jpf.jar	source/org/java/plugin/registry/xml/DocumentationImpl.java	0	0	0	2	0	0
+org.java.plugin.registry.xml.ExtensionImpl	jpf.jar	source/org/java/plugin/registry/xml/ExtensionImpl.java	0	0	0	4	685	534
+org.java.plugin.registry.xml.ExtensionImpl$ParameterImpl	jpf.jar	source/org/java/plugin/registry/xml/ExtensionImpl.java	0	0	0	2	0	0
+org.java.plugin.registry.xml.ExtensionPointImpl	jpf.jar	source/org/java/plugin/registry/xml/ExtensionPointImpl.java	0	0	0	4	643	490
+org.java.plugin.registry.xml.ExtensionPointImpl$ParameterDefinitionImpl	jpf.jar	source/org/java/plugin/registry/xml/ExtensionPointImpl.java	0	0	0	2	0	0
+org.java.plugin.registry.xml.IdentityImpl	jpf.jar	source/org/java/plugin/registry/xml/IdentityImpl.java	0	0	0	4	80	38
+org.java.plugin.registry.xml.IntegrityChecker	jpf.jar	source/org/java/plugin/registry/xml/IntegrityChecker.java	0	0	0	4	270	206
+org.java.plugin.registry.xml.IntegrityChecker$ReportItemImpl	jpf.jar	source/org/java/plugin/registry/xml/IntegrityChecker.java	0	0	0	2	0	0
+org.java.plugin.registry.xml.LibraryImpl	jpf.jar	source/org/java/plugin/registry/xml/LibraryImpl.java	0	0	0	4	111	62
+org.java.plugin.registry.xml.ManifestHandler	jpf.jar	source/org/java/plugin/registry/xml/ManifestHandler.java	0	0	0	4	397	358
+org.java.plugin.registry.xml.ManifestInfoHandler	jpf.jar	source/org/java/plugin/registry/xml/ManifestInfoHandler.java	0	0	0	4	104	65
+org.java.plugin.registry.xml.ManifestParser	jpf.jar	source/org/java/plugin/registry/xml/ManifestParser.java	0	0	0	4	140	108
+org.java.plugin.registry.xml.ManifestParser$1	jpf.jar	source/org/java/plugin/registry/xml/ManifestParser.java	0	0	0	2	0	0
+org.java.plugin.registry.xml.ModelAttribute	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelDocumentation	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelDocumentationReference	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelExtension	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelExtensionPoint	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelLibrary	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelManifestInfo	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelParameter	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelParameterDef	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelPluginDescriptor	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelPluginFragment	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelPluginManifest	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ModelPrerequisite	jpf.jar	source/org/java/plugin/registry/xml/Model.java	0	0	0	1	0	0
+org.java.plugin.registry.xml.ParameterValueParser	jpf.jar	source/org/java/plugin/registry/xml/ParameterValueParser.java	0	0	0	4	248	237
+org.java.plugin.registry.xml.PluginAttributeImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginAttributeImpl.java	0	0	0	4	136	86
+org.java.plugin.registry.xml.PluginDescriptorImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginDescriptorImpl.java	0	0	0	4	424	300
+org.java.plugin.registry.xml.PluginElementImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginElementImpl.java	0	0	0	4	89	44
+org.java.plugin.registry.xml.PluginFragmentImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginFragmentImpl.java	0	0	0	4	167	91
+org.java.plugin.registry.xml.PluginPrerequisiteImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginPrerequisiteImpl.java	0	0	0	4	194	112
+org.java.plugin.registry.xml.PluginRegistryImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginRegistryImpl.java	0	0	0	0	1215	940
+org.java.plugin.registry.xml.PluginRegistryImpl$ManifestInfoImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginRegistryImpl.java	0	0	0	2	0	0
+org.java.plugin.registry.xml.PluginRegistryImpl$RegistryChangeDataImpl	jpf.jar	source/org/java/plugin/registry/xml/PluginRegistryImpl.java	0	0	0	2	0	0
+org.java.plugin.registry.xml.SimpleStack	jpf.jar	source/org/java/plugin/registry/xml/BaseHandler.java	0	0	0	1	0	0
+org.java.plugin.boot.Application	jpf-boot.jar	source-boot/org/java/plugin/boot/Application.java	0	0	0	0	35	4
+org.java.plugin.boot.ApplicationInitializer	jpf-boot.jar	source-boot/org/java/plugin/boot/ApplicationInitializer.java	0	0	0	0	62	7
+org.java.plugin.boot.ApplicationPlugin	jpf-boot.jar	source-boot/org/java/plugin/boot/ApplicationPlugin.java	0	0	0	0	48	7
+org.java.plugin.boot.Boot	jpf-boot.jar	source-boot/org/java/plugin/boot/Boot.java	0	0	0	0	765	477
+org.java.plugin.boot.BootErrorHandler	jpf-boot.jar	source-boot/org/java/plugin/boot/BootErrorHandler.java	0	0	0	0	60	9
+org.java.plugin.boot.BootErrorHandlerConsole	jpf-boot.jar	source-boot/org/java/plugin/boot/BootErrorHandlerConsole.java	0	0	0	0	75	20
+org.java.plugin.boot.BootErrorHandlerGui	jpf-boot.jar	source-boot/org/java/plugin/boot/BootErrorHandlerGui.java	0	0	0	0	84	38
+org.java.plugin.boot.ControlThread	jpf-boot.jar	source-boot/org/java/plugin/boot/ControlThread.java	0	0	0	4	342	302
+org.java.plugin.boot.DefaultApplicationInitializer	jpf-boot.jar	source-boot/org/java/plugin/boot/DefaultApplicationInitializer.java	0	0	0	0	386	251
+org.java.plugin.boot.DefaultPluginsCollector	jpf-boot.jar	source-boot/org/java/plugin/boot/DefaultPluginsCollector.java	0	0	0	0	240	156
+org.java.plugin.boot.DefaultPluginsCollector$LocationsDescriptorHandler	jpf-boot.jar	source-boot/org/java/plugin/boot/DefaultPluginsCollector.java	0	0	0	2	0	0
+org.java.plugin.boot.ErrorDialog	jpf-boot.jar	source-boot/org/java/plugin/boot/ErrorDialog.java	0	0	0	0	537	382
+org.java.plugin.boot.ErrorDialog$1	jpf-boot.jar	source-boot/org/java/plugin/boot/ErrorDialog.java	0	0	0	2	0	0
+org.java.plugin.boot.ErrorDialog$2	jpf-boot.jar	source-boot/org/java/plugin/boot/ErrorDialog.java	0	0	0	2	0	0
+org.java.plugin.boot.ErrorDialog$3	jpf-boot.jar	source-boot/org/java/plugin/boot/ErrorDialog.java	0	0	0	2	0	0
+org.java.plugin.boot.ErrorDialog$4	jpf-boot.jar	source-boot/org/java/plugin/boot/ErrorDialog.java	0	0	0	2	0	0
+org.java.plugin.boot.PluginsCollector	jpf-boot.jar	source-boot/org/java/plugin/boot/PluginsCollector.java	0	0	0	0	49	7
+org.java.plugin.boot.ServiceApplication	jpf-boot.jar	source-boot/org/java/plugin/boot/ServiceApplication.java	0	0	0	0	34	4
+org.java.plugin.boot.SimpleSplashHandler	jpf-boot.jar	source-boot/org/java/plugin/boot/Boot.java	0	0	0	1	0	0
+org.java.plugin.boot.SplashHandler	jpf-boot.jar	source-boot/org/java/plugin/boot/SplashHandler.java	0	0	0	0	95	15
+org.java.plugin.boot.SplashHandlerWrapper	jpf-boot.jar	source-boot/org/java/plugin/boot/Boot.java	0	0	0	1	0	0
+org.java.plugin.boot.SplashWindow	jpf-boot.jar	source-boot/org/java/plugin/boot/SplashWindow.java	0	0	0	4	207	116
+org.java.plugin.boot.SplashWindow$1	jpf-boot.jar	source-boot/org/java/plugin/boot/SplashWindow.java	0	0	0	2	0	0
+org.java.plugin.tools.docgen.ClassPathPageSource	jpf-tools.jar	source-tools/org/java/plugin/tools/docgen/ClassPathPageSource.java	0	0	0	4	82	60
+org.java.plugin.tools.docgen.DocGenerator	jpf-tools.jar	source-tools/org/java/plugin/tools/docgen/DocGenerator.java	0	0	0	0	485	361
+org.java.plugin.tools.docgen.DocGenerator$IdentityComparator	jpf-tools.jar	source-tools/org/java/plugin/tools/docgen/DocGenerator.java	0	0	0	2	0	0
+org.java.plugin.tools.docgen.DocGenerator$Tool	jpf-tools.jar	source-tools/org/java/plugin/tools/docgen/DocGenerator.java	0	0	0	2	0	0
+org.java.plugin.registry.Documentable	jpf.jar	source/org/java/plugin/registry/Documentable.java	0	0	0	0	37	5
+org.java.plugin.registry.Documentation	jpf.jar	source/org/java/plugin/registry/Documentation.java	0	0	0	0	68	13
+org.java.plugin.registry.Documentation$Reference	jpf.jar	source/org/java/plugin/registry/Documentation.java	0	0	0	2	0	0
+org.java.plugin.registry.Extension	jpf.jar	source/org/java/plugin/registry/Extension.java	0	0	0	0	210	32
+org.java.plugin.registry.Extension$Parameter	jpf.jar	source/org/java/plugin/registry/Extension.java	0	0	0	2	0	0
+org.java.plugin.registry.ExtensionPoint	jpf.jar	source/org/java/plugin/registry/ExtensionPoint.java	0	0	0	0	287	49
+org.java.plugin.registry.ExtensionPoint$ParameterDefinition	jpf.jar	source/org/java/plugin/registry/ExtensionPoint.java	0	0	0	2	0	0
+org.java.plugin.registry.Identity	jpf.jar	source/org/java/plugin/registry/Identity.java	0	0	0	0	33	4
+org.java.plugin.registry.IntegrityCheckReport	jpf.jar	source/org/java/plugin/registry/IntegrityCheckReport.java	0	0	0	0	132	25
+org.java.plugin.registry.IntegrityCheckReport$ReportItem	jpf.jar	source/org/java/plugin/registry/IntegrityCheckReport.java	0	0	0	2	0	0
+org.java.plugin.registry.Library	jpf.jar	source/org/java/plugin/registry/Library.java	0	0	0	0	67	8
+org.java.plugin.registry.ManifestProcessingException	jpf.jar	source/org/java/plugin/registry/ManifestProcessingException.java	0	0	0	0	59	17
+org.java.plugin.registry.PluginAttribute	jpf.jar	source/org/java/plugin/registry/PluginAttribute.java	0	0	0	0	57	9
+org.java.plugin.registry.PluginDescriptor	jpf.jar	source/org/java/plugin/registry/PluginDescriptor.java	0	0	0	0	136	22
+org.java.plugin.registry.PluginElement	jpf.jar	source/org/java/plugin/registry/PluginElement.java	0	0	0	0	41	5
+org.java.plugin.registry.PluginFragment	jpf.jar	source/org/java/plugin/registry/PluginFragment.java	0	0	0	0	76	11
+org.java.plugin.registry.PluginPrerequisite	jpf.jar	source/org/java/plugin/registry/PluginPrerequisite.java	0	0	0	0	89	14
+org.java.plugin.registry.PluginRegistry	jpf.jar	source/org/java/plugin/registry/PluginRegistry.java	0	0	0	0	390	58
+org.java.plugin.registry.PluginRegistry$ManifestInfo	jpf.jar	source/org/java/plugin/registry/PluginRegistry.java	0	0	0	2	0	0
+org.java.plugin.registry.PluginRegistry$RegistryChangeData	jpf.jar	source/org/java/plugin/registry/PluginRegistry.java	0	0	0	2	0	0
+org.java.plugin.registry.PluginRegistry$RegistryChangeListener	jpf.jar	source/org/java/plugin/registry/PluginRegistry.java	0	0	0	2	0	0
+org.java.plugin.registry.UniqueIdentity	jpf.jar	source/org/java/plugin/registry/UniqueIdentity.java	0	0	0	0	32	4
+org.java.plugin.registry.Version	jpf.jar	source/org/java/plugin/registry/Version.java	0	0	0	0	374	226
+org.java.plugin.tools.mocks.MockDocumentation	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockDocumentation.java	0	0	0	0	100	40
+org.java.plugin.tools.mocks.MockExtension	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockExtension.java	0	0	0	0	159	74
+org.java.plugin.tools.mocks.MockExtensionPoint	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockExtensionPoint.java	0	0	0	0	264	135
+org.java.plugin.tools.mocks.MockIdentity	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockIdentity.java	0	0	0	0	44	12
+org.java.plugin.tools.mocks.MockLibrary	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockLibrary.java	0	0	0	0	107	43
+org.java.plugin.tools.mocks.MockParameter	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockParameter.java	0	0	0	0	253	119
+org.java.plugin.tools.mocks.MockParameterDefinition	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockParameterDefinition.java	0	0	0	0	170	79
+org.java.plugin.tools.mocks.MockPluginAttribute	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockPluginAttribute.java	0	0	0	0	131	61
+org.java.plugin.tools.mocks.MockPluginDescriptor	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockPluginDescriptor.java	0	0	0	0	381	193
+org.java.plugin.tools.mocks.MockPluginElement	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockPluginElement.java	0	0	0	0	101	42
+org.java.plugin.tools.mocks.MockPluginFragment	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockPluginFragment.java	0	0	0	0	184	79
+org.java.plugin.tools.mocks.MockPluginPrerequisite	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockPluginPrerequisite.java	0	0	0	0	155	65
+org.java.plugin.tools.mocks.MockPluginRegistry	jpf-tools.jar	source-tools/org/java/plugin/tools/mocks/MockPluginRegistry.java	0	0	0	0	316	156
+org.java.plugin.JpfException	jpf.jar	source/org/java/plugin/JpfException.java	0	0	0	0	52	21
+org.java.plugin.ObjectFactory	jpf.jar	source/org/java/plugin/ObjectFactory.java	0	0	0	0	292	196
+org.java.plugin.PathResolver	jpf.jar	source/org/java/plugin/PathResolver.java	0	0	0	0	80	12
+org.java.plugin.Plugin	jpf.jar	source/org/java/plugin/Plugin.java	0	0	0	0	129	45
+org.java.plugin.PluginClassLoader	jpf.jar	source/org/java/plugin/PluginClassLoader.java	0	0	0	0	115	42
+org.java.plugin.PluginLifecycleException	jpf.jar	source/org/java/plugin/PluginLifecycleException.java	0	0	0	0	57	16
+org.java.plugin.PluginManager	jpf.jar	source/org/java/plugin/PluginManager.java	0	0	0	0	405	109
+org.java.plugin.PluginManager$1	jpf.jar	source/org/java/plugin/PluginManager.java	0	0	0	2	0	0
+org.java.plugin.PluginManager$EventListener	jpf.jar	source/org/java/plugin/PluginManager.java	0	0	0	2	0	0
+org.java.plugin.PluginManager$EventListenerAdapter	jpf.jar	source/org/java/plugin/PluginManager.java	0	0	0	2	0	0
+org.java.plugin.PluginManager$PluginLocation	jpf.jar	source/org/java/plugin/PluginManager.java	0	0	0	2	0	0
+#Issues
+#======
+#SRC IGNORED: copy/QualitasCorpus-20120418/Systems/jpf/jpf-1.0.2/src/lib/commons-logging.jar in <src> ignored.
+#SRC IGNORED: copy/QualitasCorpus-20120418/Systems/jpf/jpf-1.0.2/src/lib/jxp.jar in <src> ignored.
+#SRC NO PUBLIC TYPE for source-boot/org/java/plugin/boot/ControlThread.java.
+#SRC NO PUBLIC TYPE for source-boot/org/java/plugin/boot/SplashWindow.java.
+#SRC NO PUBLIC TYPE for source-tools/org/java/plugin/tools/Util.java.
+#SRC NO PUBLIC TYPE for source-tools/org/java/plugin/tools/docgen/ClassPathPageSource.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/BaseHandler.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/DocumentationImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/ExtensionImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/ExtensionPointImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/IdentityImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/IntegrityChecker.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/LibraryImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/ManifestHandler.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/ManifestInfoHandler.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/ManifestParser.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/Model.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/ParameterValueParser.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/PluginAttributeImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/PluginDescriptorImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/PluginElementImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/PluginFragmentImpl.java.
+#SRC NO PUBLIC TYPE for source/org/java/plugin/registry/xml/PluginPrerequisiteImpl.java.
