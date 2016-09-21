@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/ArtOfIllusion/ArtOfIllusion.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/ArtOfIllusion/ArtOfIllusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/HelpPlugin/HelpPlugin.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/HelpPlugin/HelpPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/OSSpecific/OSSpecific.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/OSSpecific/OSSpecific.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/PostInstall/PostInstall.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/PostInstall/PostInstall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/Renderers/Renderers.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/Renderers/Renderers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/SPManager/SPManager.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/SPManager/SPManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/Tests/Tests.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/Tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/Tools/Tools.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/Tools/Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AoIsrc281/Translators/Translators.iml" filepath="$PROJECT_DIR$/src/AoIsrc281/Translators/Translators.iml" />
+    </modules>
+  </component>
+</project>

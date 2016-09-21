@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="helpgui-1.1b">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/HelpPlugin/lib/helpgui-1.1b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/HelpPlugin/lib/jhall.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/HelpPlugin/lib/jhelpaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/HelpPlugin/lib/pircbot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/HelpPlugin/lib/pircbot.jar!/" />
+    </SOURCES>
+  </library>
+</component>

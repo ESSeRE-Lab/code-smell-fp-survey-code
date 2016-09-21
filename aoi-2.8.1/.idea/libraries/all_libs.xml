@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="all-libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/beanshell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Buoy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Buoyx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmf/multiplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmf/mediaplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmf/jmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmf/customizer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
