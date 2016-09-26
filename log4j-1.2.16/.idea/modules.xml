@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/apache-log4j-1.2.16/src/main/main.iml" filepath="$PROJECT_DIR$/src/apache-log4j-1.2.16/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/apache-log4j-1.2.16/src/performance/performance.iml" filepath="$PROJECT_DIR$/src/apache-log4j-1.2.16/src/performance/performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/apache-log4j-1.2.16/tests/src/tests.iml" filepath="$PROJECT_DIR$/src/apache-log4j-1.2.16/tests/src/tests.iml" />
+    </modules>
+  </component>
+</project>
