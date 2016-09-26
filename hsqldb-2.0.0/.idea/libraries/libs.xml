@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ant-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxav.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
