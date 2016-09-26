@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/apache-ant-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.springsource.javax.xml.rpc-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jdt.core_3.7.0.v_B61.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wsdl4j-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
