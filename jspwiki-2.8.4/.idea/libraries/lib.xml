@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-httpclient-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/oscache.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-taglibs-jstl-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/sandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/freshcookies-security-0.60.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/lucene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/akismet-java-1.02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/nekohtml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-tablibs-standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jrcs-diff.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jsonrpc-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/xmlrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-logging-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jaxen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/oro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/ecs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/lucene-highlighter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

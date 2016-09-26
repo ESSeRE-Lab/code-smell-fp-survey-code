@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/yuicompressor-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/jetty-jmx-5.1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/xercesImpl-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/stripes-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/xml-apis-1.0.b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/jetty-servlet-5.1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/jetty-plus-5.1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/commons-el-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/selenium-java-client-driver-1.0-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/custom_rhino.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/jasper-runtime-5.5.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/jasper-compiler-5.5.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/tests/lib/selenium-server-1.0-beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
