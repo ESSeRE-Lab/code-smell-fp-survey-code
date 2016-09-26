@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="mpxj1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/mpxj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/relaxngDatatype.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jax-qname.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/xsdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jaxb-libs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/namespace.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.htmlpdf/lib/ganttproject-avalon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.htmlpdf/lib/fop-font-metrics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.htmlpdf/lib/ganttproject-batik.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.htmlpdf/lib/fop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

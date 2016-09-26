@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/ganttproject.iml" filepath="$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/ganttproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.chart.pert/org.ganttproject.chart.pert.iml" filepath="$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.chart.pert/org.ganttproject.chart.pert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.htmlpdf/org.ganttproject.impex.htmlpdf.iml" filepath="$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.htmlpdf/org.ganttproject.impex.htmlpdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.msproject/org.ganttproject.impex.msproject.iml" filepath="$PROJECT_DIR$/src/ganttproject-2.0.9-src/org.ganttproject.impex.msproject/org.ganttproject.impex.msproject.iml" />
+    </modules>
+  </component>
+</project>

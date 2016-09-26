@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="core1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/xml-im-exporter1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/jakarta-poi-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/AppleJavaExtensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/jgoodies-looks-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/commons-transaction-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/jdnc-modifBen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/eclipsito.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/jakarta-slide-webdavlib-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/helpgui-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ganttproject-2.0.9-src/ganttproject/lib/core/commons-httpclient-contrib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

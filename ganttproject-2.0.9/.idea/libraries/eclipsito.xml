@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eclipsito">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/ganttproject-2.0.9/eclipsito.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
