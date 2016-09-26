@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-primitives-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gnu-regexp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jakarta-regexp-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jta-spec1_0_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-3.0.17-ga-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-codec-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
