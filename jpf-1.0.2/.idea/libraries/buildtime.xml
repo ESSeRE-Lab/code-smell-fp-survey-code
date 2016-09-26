@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="buildtime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/ant-1.7.0/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/mockrunner-0.35/lib/mockrunner-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/mockrunner-0.35/lib/nekohtml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/mockrunner-0.35/lib/mockrunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/mockrunner-0.35/lib/mockrunner-struts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/tomcat-5.0.28/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/tomcat-5.0.28/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/derbyclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/derbynet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/junit-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/junit-anttask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/velocidoc-app.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/bin/tools/buildtime/velocidoc-app.jar!/" />
+    </SOURCES>
+  </library>
+</component>
