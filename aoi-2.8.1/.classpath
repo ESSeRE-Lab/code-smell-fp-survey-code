@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/AoIsrc281/Renderers/src"/>
+	<classpathentry kind="src" path="src/AoIsrc281/Tools/src"/>
+	<classpathentry kind="src" path="src/AoIsrc281/Tests/src"/>
+	<classpathentry kind="src" path="src/AoIsrc281/SPManager/src"/>
+	<classpathentry kind="src" path="src/AoIsrc281/Translators/src"/>
+	<classpathentry kind="src" path="src/AoIsrc281/PostInstall/src"/>
+	<classpathentry kind="src" path="src/AoIsrc281/OSSpecific/src"/>
+	<classpathentry kind="src" path="src/AoIsrc281/ArtOfIllusion/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/jmf/customizer.jar"/>
+	<classpathentry kind="lib" path="lib/jmf/jmf.jar"/>
+	<classpathentry kind="lib" path="lib/jmf/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="lib/jmf/multiplayer.jar"/>
+	<classpathentry kind="lib" path="lib/jogl.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="src/beanshell.jar"/>
+	<classpathentry kind="lib" path="src/Buoy.jar"/>
+	<classpathentry kind="lib" path="src/Buoyx.jar"/>
+	<classpathentry kind="lib" path="src/classes.jar"/>
+	<classpathentry kind="output" path="out"/>
+</classpath>
