@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/ganttproject-2.0.9-src/ganttproject/src"/>
+	<classpathentry kind="src" path="src/ganttproject-2.0.9-src/org.ganttproject.chart.pert/src"/>
+	<classpathentry kind="src" path="src/ganttproject-2.0.9-src/org.ganttproject.impex.htmlpdf/src"/>
+	<classpathentry kind="src" path="src/ganttproject-2.0.9-src/org.ganttproject.impex.msproject/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.4"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/eclipsito.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/commons-httpclient-contrib.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/commons-logging.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/commons-transaction-1.0.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/helpgui-1.1.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/jakarta-poi-2.5.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/jakarta-slide-webdavlib-2.1.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/jdnc-modifBen.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/jgoodies-looks-1.2.2.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/net.sourceforge.ganttproject_2.0.0/lib/core/xml-im-exporter1.1.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.htmlpdf_2.0.0/lib/fop-font-metrics.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.htmlpdf_2.0.0/lib/fop.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jax-qname.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/jaxb-libs.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/mpxj.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/namespace.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/relaxngDatatype.jar"/>
+	<classpathentry kind="lib" path="bin/ganttproject-2.0.9/plugins/org.ganttproject.impex.msproject_2.0.0/lib/mpxj/xsdlib.jar"/>
+	<classpathentry kind="output" path="out"/>
+</classpath>
